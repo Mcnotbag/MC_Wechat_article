@@ -1,0 +1,26 @@
+REDIS_HOST = 'localhost'
+
+REDIS_PORT = 6379
+
+REDIS_PASSWORD = 'foobared'
+
+REDIS_KEY = 'weixin_article'
+
+PROXY_POOL_URL = '' # 代理IP来源
+
+MYSQL_HOST = 'localhost'
+
+MYSQL_PORT = 3306
+
+MYSQL_USE = 'root'
+
+MYSQL_PASSWORD = '123456'
+
+MYSQL_DATABASE = 'wexin'
+
+TIMEOUT = 10
+
+MAX_FAILED_TIME = 20
+
+VALID_STATUSES = [200]
+
